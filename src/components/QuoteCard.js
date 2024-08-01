@@ -1,4 +1,3 @@
-// src/components/QuoteCard.js
 
 import React from 'react';
 import './QuoteCard.css';
